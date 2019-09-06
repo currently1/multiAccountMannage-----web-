@@ -1,0 +1,3 @@
+contract,K,Sigma,r,Scale,SettlementDate(非'亚式期权'请任意添写格式日期）,maturityDate,direction,Type,Buy/Sell,"SA(非亚式期权请填""0"")"
+au1712,286,0.096,0,10,2017/3/22 15:00,2017/6/22 15:00,PUT,Asian,Sell,285.95
+au1712,287,0.096,0,10,2018/5/28 15:00,2017/7/21 15:00,PUT,European,Sell,0

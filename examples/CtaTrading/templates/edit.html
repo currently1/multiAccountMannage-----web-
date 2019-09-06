@@ -1,0 +1,50 @@
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+{% include 'flash.html' %}
+<h1>交易账号信息填写</h1>
+<div class="well">
+	<form class="form-horizontal" action="" method="post" name="edit">
+	{{form.hidden_tag()}}
+	<div class="control-group">
+		<label class="control-label" for="nickname">昵称:</label>
+		<div class="controls">
+			{{ form.username(maxlength = 64, class = "span5") }}
+		</div>
+	</div>
+	<div class="control-group">
+		<label class="control-label" for="brokerID">经纪商账号:</label>
+		<div class="controls">
+			{{ form.brokerID(maxlength = 64, class = "span5") }}
+		</div>
+	</div>
+	<div class="control-group">
+		<label class="control-label" for="mdAddress">行情机地址:</label>		   <div class="controls">
+			{{ form.mdAddress(maxlength = 64,  class = "span5") }}
+		</div>
+	</div>
+	<div class="control-group">
+		<label class="control-label" for="tdAddress">交易机地址:</label>
+		<div class="controls">
+			{{ form.tdAddress(maxlength = 64, class = "span5") }}
+		</div>
+	</div>
+	<div class="control-group">
+		<label class="control-label" for="userID">交易账号:</label>
+		<div class="controls">
+			{{ form.userID(maxlength = 64, class = "span5") }}
+		</div>
+	</div>
+	<div class="control-group">
+		<label class="control-label" for="password">交易密码:</label>
+		<div class="controls">
+			{{ form.password(maxlength = 64, class = "span5") }}
+		</div>
+	</div>
+	<div class="control-group">
+		<div class="controls">
+		<input class="btn btn-primary" type="submit" value="保存">
+		</div>
+	</div>
+	</form>
+</div>
+{% endblock %}
+<li><a href="{{ url_for('edit') }}"><div style="color:#40B3DF;">添加账户信息</div></a></li>

@@ -1,0 +1,1220 @@
+2019-01-03 08:57:25,763  INFO: 事件引擎创建成功
+2019-01-03 08:57:26,427  INFO: 主引擎创建成功
+2019-01-03 08:57:26,427  INFO: 注册日志事件监听
+2019-01-03 08:57:26,427  INFO: 启动CTA策略运行子进程
+2019-01-03 08:57:26,427  INFO: 连接CTP接口
+2019-01-03 08:57:26,479  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 08:57:26,628  INFO: CTP	行情服务器连接成功
+2019-01-03 08:57:26,628  INFO: CTP	交易服务器连接成功
+2019-01-03 08:57:26,631  INFO: CTP	行情服务器登录完成
+2019-01-03 08:57:29,539  INFO: CTP	交易服务器登录完成
+2019-01-03 08:57:29,832  INFO: CTP	结算信息确认完成
+2019-01-03 08:57:31,154  INFO: CTP	交易合约信息获取完成
+2019-01-03 08:57:31,642  INFO: 事件引擎创建成功
+2019-01-03 08:57:31,654  INFO: 主引擎创建成功
+2019-01-03 08:57:31,654  INFO: 注册日志事件监听
+2019-01-03 08:57:31,654  INFO: 启动CTA策略运行子进程
+2019-01-03 08:57:31,654  INFO: 连接CTP接口
+2019-01-03 08:57:31,665  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 08:57:31,700  INFO: CTP	行情服务器连接成功
+2019-01-03 08:57:31,700  INFO: CTP	交易服务器连接成功
+2019-01-03 08:57:31,736  INFO: CTP	交易服务器登录完成
+2019-01-03 08:57:31,855  INFO: CTP	结算信息确认完成
+2019-01-03 08:57:32,161  INFO: CTP	交易合约信息获取完成
+2019-01-03 08:57:34,772  INFO: CTP	行情服务器登录完成
+2019-01-03 09:01:09,828  INFO: 事件引擎创建成功
+2019-01-03 09:01:09,855  INFO: 主引擎创建成功
+2019-01-03 09:01:09,857  INFO: 注册日志事件监听
+2019-01-03 09:01:09,857  INFO: 启动CTA策略运行子进程
+2019-01-03 09:01:09,857  INFO: 连接CTP接口
+2019-01-03 09:01:09,868  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:01:09,904  INFO: CTP	行情服务器连接成功
+2019-01-03 09:01:09,940  INFO: CTP	行情服务器登录完成
+2019-01-03 09:01:14,145  INFO: CTP	交易服务器连接成功
+2019-01-03 09:01:14,164  INFO: CTP	交易服务器登录完成
+2019-01-03 09:01:14,285  INFO: CTP	结算信息确认完成
+2019-01-03 09:01:15,062  INFO: 事件引擎创建成功
+2019-01-03 09:01:15,071  INFO: 主引擎创建成功
+2019-01-03 09:01:15,072  INFO: 注册日志事件监听
+2019-01-03 09:01:15,072  INFO: 启动CTA策略运行子进程
+2019-01-03 09:01:15,072  INFO: 连接CTP接口
+2019-01-03 09:01:15,101  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:01:15,121  INFO: CTP	行情服务器连接成功
+2019-01-03 09:01:15,125  INFO: CTP	交易服务器连接成功
+2019-01-03 09:01:15,163  INFO: CTP	行情服务器登录完成
+2019-01-03 09:01:15,164  INFO: CTP	交易服务器登录完成
+2019-01-03 09:01:15,269  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:01:15,285  INFO: CTP	结算信息确认完成
+2019-01-03 09:01:15,591  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:17:01,505  INFO: 事件引擎创建成功
+2019-01-03 09:17:01,690  INFO: 主引擎创建成功
+2019-01-03 09:17:01,690  INFO: 注册日志事件监听
+2019-01-03 09:17:01,690  INFO: 启动CTA策略运行子进程
+2019-01-03 09:17:01,690  INFO: 连接CTP接口
+2019-01-03 09:17:01,703  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:17:01,740  INFO: CTP	行情服务器连接成功
+2019-01-03 09:17:01,740  INFO: CTP	交易服务器连接成功
+2019-01-03 09:17:01,776  INFO: CTP	行情服务器登录完成
+2019-01-03 09:17:01,778  INFO: CTP	交易服务器登录完成
+2019-01-03 09:17:01,897  INFO: CTP	结算信息确认完成
+2019-01-03 09:17:02,411  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:17:06,914  INFO: 事件引擎创建成功
+2019-01-03 09:17:06,921  INFO: 主引擎创建成功
+2019-01-03 09:17:06,921  INFO: 注册日志事件监听
+2019-01-03 09:17:06,921  INFO: 启动CTA策略运行子进程
+2019-01-03 09:17:06,921  INFO: 连接CTP接口
+2019-01-03 09:17:06,937  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:17:07,006  INFO: CTP	交易服务器连接成功
+2019-01-03 09:17:07,012  INFO: CTP	交易服务器登录完成
+2019-01-03 09:17:07,183  INFO: CTP	结算信息确认完成
+2019-01-03 09:17:07,375  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:17:10,194  INFO: CTP	行情服务器连接成功
+2019-01-03 09:17:10,196  INFO: CTP	行情服务器登录完成
+2019-01-03 09:33:37,562  INFO: 事件引擎创建成功
+2019-01-03 09:33:37,750  INFO: 主引擎创建成功
+2019-01-03 09:33:37,750  INFO: 注册日志事件监听
+2019-01-03 09:33:37,750  INFO: 启动CTA策略运行子进程
+2019-01-03 09:33:37,750  INFO: 连接CTP接口
+2019-01-03 09:33:37,796  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:33:37,798  INFO: CTP	行情服务器连接成功
+2019-01-03 09:33:37,808  INFO: CTP	交易服务器连接成功
+2019-01-03 09:33:37,826  INFO: CTP	行情服务器登录完成
+2019-01-03 09:33:37,845  INFO: CTP	交易服务器登录完成
+2019-01-03 09:33:37,964  INFO: CTP	结算信息确认完成
+2019-01-03 09:33:38,980  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:33:42,940  INFO: 事件引擎创建成功
+2019-01-03 09:33:42,948  INFO: 主引擎创建成功
+2019-01-03 09:33:42,948  INFO: 注册日志事件监听
+2019-01-03 09:33:42,948  INFO: 启动CTA策略运行子进程
+2019-01-03 09:33:42,948  INFO: 连接CTP接口
+2019-01-03 09:33:42,964  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:33:43,033  INFO: CTP	交易服务器连接成功
+2019-01-03 09:33:43,045  INFO: CTP	交易服务器登录完成
+2019-01-03 09:33:43,164  INFO: CTP	结算信息确认完成
+2019-01-03 09:33:43,401  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:33:46,013  INFO: CTP	行情服务器连接成功
+2019-01-03 09:33:46,061  INFO: CTP	行情服务器登录完成
+2019-01-03 09:43:45,022  INFO: 事件引擎创建成功
+2019-01-03 09:43:45,223  INFO: 主引擎创建成功
+2019-01-03 09:43:45,223  INFO: 注册日志事件监听
+2019-01-03 09:43:45,223  INFO: 启动CTA策略运行子进程
+2019-01-03 09:43:45,223  INFO: 连接CTP接口
+2019-01-03 09:43:45,234  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:43:45,269  INFO: CTP	行情服务器连接成功
+2019-01-03 09:43:45,275  INFO: CTP	交易服务器连接成功
+2019-01-03 09:43:45,292  INFO: CTP	行情服务器登录完成
+2019-01-03 09:43:45,311  INFO: CTP	交易服务器登录完成
+2019-01-03 09:43:45,480  INFO: CTP	结算信息确认完成
+2019-01-03 09:43:46,865  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:43:50,415  INFO: 事件引擎创建成功
+2019-01-03 09:43:50,430  INFO: 主引擎创建成功
+2019-01-03 09:43:50,430  INFO: 注册日志事件监听
+2019-01-03 09:43:50,430  INFO: 启动CTA策略运行子进程
+2019-01-03 09:43:50,430  INFO: 连接CTP接口
+2019-01-03 09:43:50,457  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:43:50,476  INFO: CTP	交易服务器连接成功
+2019-01-03 09:43:50,479  INFO: CTP	行情服务器连接成功
+2019-01-03 09:43:53,549  INFO: CTP	交易服务器登录完成
+2019-01-03 09:43:53,549  INFO: CTP	行情服务器登录完成
+2019-01-03 09:43:53,667  INFO: CTP	结算信息确认完成
+2019-01-03 09:54:12,881  INFO: 事件引擎创建成功
+2019-01-03 09:54:13,098  INFO: 主引擎创建成功
+2019-01-03 09:54:13,099  INFO: 注册日志事件监听
+2019-01-03 09:54:13,099  INFO: 启动CTA策略运行子进程
+2019-01-03 09:54:13,099  INFO: 连接CTP接口
+2019-01-03 09:54:13,141  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:54:13,148  INFO: CTP	行情服务器连接成功
+2019-01-03 09:54:13,151  INFO: CTP	交易服务器连接成功
+2019-01-03 09:54:13,187  INFO: CTP	行情服务器登录完成
+2019-01-03 09:54:13,187  INFO: CTP	交易服务器登录完成
+2019-01-03 09:54:13,309  INFO: CTP	结算信息确认完成
+2019-01-03 09:54:13,496  INFO: CTP	交易合约信息获取完成
+2019-01-03 09:54:18,332  INFO: 事件引擎创建成功
+2019-01-03 09:54:18,342  INFO: 主引擎创建成功
+2019-01-03 09:54:18,342  INFO: 注册日志事件监听
+2019-01-03 09:54:18,342  INFO: 启动CTA策略运行子进程
+2019-01-03 09:54:18,342  INFO: 连接CTP接口
+2019-01-03 09:54:18,368  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 09:54:18,388  INFO: CTP	行情服务器连接成功
+2019-01-03 09:54:18,408  INFO: CTP	交易服务器连接成功
+2019-01-03 09:54:18,420  INFO: CTP	行情服务器登录完成
+2019-01-03 09:54:18,457  INFO: CTP	交易服务器登录完成
+2019-01-03 09:54:18,581  INFO: CTP	结算信息确认完成
+2019-01-03 09:54:19,122  INFO: CTP	交易合约信息获取完成
+2019-01-03 10:02:41,299  INFO: 事件引擎创建成功
+2019-01-03 10:02:41,489  INFO: 主引擎创建成功
+2019-01-03 10:02:41,489  INFO: 注册日志事件监听
+2019-01-03 10:02:41,490  INFO: 启动CTA策略运行子进程
+2019-01-03 10:02:41,490  INFO: 连接CTP接口
+2019-01-03 10:02:41,551  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 10:02:41,551  INFO: CTP	行情服务器连接成功
+2019-01-03 10:02:41,571  INFO: CTP	行情服务器登录完成
+2019-01-03 10:02:44,609  INFO: CTP	交易服务器连接成功
+2019-01-03 10:02:44,612  INFO: CTP	交易服务器登录完成
+2019-01-03 10:02:44,733  INFO: CTP	结算信息确认完成
+2019-01-03 10:02:44,875  INFO: CTP	交易合约信息获取完成
+2019-01-03 10:02:46,690  INFO: 事件引擎创建成功
+2019-01-03 10:02:46,697  INFO: 主引擎创建成功
+2019-01-03 10:02:46,697  INFO: 注册日志事件监听
+2019-01-03 10:02:46,697  INFO: 启动CTA策略运行子进程
+2019-01-03 10:02:46,697  INFO: 连接CTP接口
+2019-01-03 10:02:46,921  INFO: CTP	行情服务器连接成功
+2019-01-03 10:02:46,921  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 10:02:46,957  INFO: CTP	行情服务器登录完成
+2019-01-03 10:02:46,960  INFO: CTP	交易服务器连接成功
+2019-01-03 10:02:46,996  INFO: CTP	交易服务器登录完成
+2019-01-03 10:02:47,167  INFO: CTP	结算信息确认完成
+2019-01-03 10:02:47,339  INFO: CTP	交易合约信息获取完成
+2019-01-03 10:53:23,634  INFO: 事件引擎创建成功
+2019-01-03 10:53:23,888  INFO: 主引擎创建成功
+2019-01-03 10:53:23,888  INFO: 注册日志事件监听
+2019-01-03 10:53:23,888  INFO: 启动CTA策略运行子进程
+2019-01-03 10:53:23,890  INFO: 连接CTP接口
+2019-01-03 10:53:23,936  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 10:53:23,938  INFO: CTP	行情服务器连接成功
+2019-01-03 10:53:23,940  INFO: CTP	交易服务器连接成功
+2019-01-03 10:53:23,976  INFO: CTP	行情服务器登录完成
+2019-01-03 10:53:23,976  INFO: CTP	交易服务器登录完成
+2019-01-03 10:53:24,197  INFO: CTP	结算信息确认完成
+2019-01-03 10:53:25,282  INFO: CTP	交易合约信息获取完成
+2019-01-03 10:53:29,221  INFO: 事件引擎创建成功
+2019-01-03 10:53:29,237  INFO: 主引擎创建成功
+2019-01-03 10:53:29,237  INFO: 注册日志事件监听
+2019-01-03 10:53:29,237  INFO: 启动CTA策略运行子进程
+2019-01-03 10:53:29,239  INFO: 连接CTP接口
+2019-01-03 10:53:29,263  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 10:53:29,282  INFO: CTP	行情服务器连接成功
+2019-01-03 10:53:29,292  INFO: CTP	交易服务器连接成功
+2019-01-03 10:53:29,328  INFO: CTP	行情服务器登录完成
+2019-01-03 10:53:29,328  INFO: CTP	交易服务器登录完成
+2019-01-03 10:53:29,447  INFO: CTP	结算信息确认完成
+2019-01-03 10:53:29,617  INFO: CTP	交易合约信息获取完成
+2019-01-03 10:53:34,459  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:34,460  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:34,460  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:34,461  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:34,463  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:36,585  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:36,585  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:36,585  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:36,586  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:36,586  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:38,701  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:38,701  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:38,701  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:38,701  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:38,703  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:40,819  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:40,819  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:40,819  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:40,819  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:40,823  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:42,961  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:42,963  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:42,963  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:42,963  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:42,964  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:45,095  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:45,095  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:45,095  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:45,096  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:45,098  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:47,234  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:47,234  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:47,234  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:47,236  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:47,237  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:49,338  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:49,339  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:49,339  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:49,339  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:49,342  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:51,482  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:51,482  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:51,483  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:51,483  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:51,483  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:53,598  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:53,598  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:53,598  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:53,598  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:53,599  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:55,713  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:55,713  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:55,714  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:55,716  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:55,716  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:57,848  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:53:57,849  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:57,851  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:57,851  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:53:57,851  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:00,009  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:54:00,009  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:00,009  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:00,009  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:00,009  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:02,131  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:54:02,131  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:02,131  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:02,131  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:02,134  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:04,255  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:54:04,256  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:04,256  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:04,256  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:04,256  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:06,361  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:54:06,361  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:06,361  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:06,361  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:06,362  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:08,493  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 763, in _get_members_etree
+    for sv in subvalue:
+  File "F:\vnpy-master\examples\CtaTrading\tradeServer.py", line 66, in pushAccountInfo
+    Process_names[accountID].accountInfo(q)
+KeyError: u'097675'
+2019-01-03 10:54:08,494  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:08,494  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 782, in _get_members_etree
+    sub_name)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:08,494  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 120, in start
+    next(ret)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 676, in gen_members_parent
+    ret = self._get_members_etree(ctx, cls, inst, elt)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:54:08,496  ERROR: u'097675'
+Traceback (most recent call last):
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\wsgi.py", line 371, in handle_rpc
+    self.get_out_string(p_ctx)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\server\_base.py", line 122, in get_out_string_pull
+    ret = ctx.out_protocol.serialize(ctx, message=ProtocolBase.RESPONSE)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\soap\soap11.py", line 322, in serialize
+    body_message_class.get_namespace())
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 463, in to_parent
+    return handler(ctx, cls, inst, parent, ns, *args, **kwargs)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\protocol\xml.py", line 814, in complex_to_parent
+    add_type)
+  File "D:\anaconda2-5.2.0\lib\site-packages\spyne\util\__init__.py", line 127, in start
+    raise e
+KeyError: u'097675'
+2019-01-03 10:57:03,793  INFO: 事件引擎创建成功
+2019-01-03 10:57:03,993  INFO: 主引擎创建成功
+2019-01-03 10:57:03,994  INFO: 注册日志事件监听
+2019-01-03 10:57:03,994  INFO: 启动CTA策略运行子进程
+2019-01-03 10:57:03,994  INFO: 连接CTP接口
+2019-01-03 10:57:04,052  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 10:57:04,052  INFO: CTP	交易服务器连接成功
+2019-01-03 10:57:04,052  INFO: CTP	行情服务器连接成功
+2019-01-03 10:57:04,089  INFO: CTP	交易服务器登录完成
+2019-01-03 10:57:04,092  INFO: CTP	行情服务器登录完成
+2019-01-03 10:57:04,414  INFO: CTP	结算信息确认完成
+2019-01-03 10:57:05,022  INFO: CTP	交易合约信息获取完成
+2019-01-03 10:57:09,240  INFO: 事件引擎创建成功
+2019-01-03 10:57:09,253  INFO: 主引擎创建成功
+2019-01-03 10:57:09,253  INFO: 注册日志事件监听
+2019-01-03 10:57:09,253  INFO: 启动CTA策略运行子进程
+2019-01-03 10:57:09,253  INFO: 连接CTP接口
+2019-01-03 10:57:09,286  INFO: MAIN_ENGINE	MongoDB连接成功
+2019-01-03 10:57:09,322  INFO: CTP	行情服务器连接成功
+2019-01-03 10:57:09,322  INFO: CTP	交易服务器连接成功
+2019-01-03 10:57:09,358  INFO: CTP	行情服务器登录完成
+2019-01-03 10:57:09,359  INFO: CTP	交易服务器登录完成
+2019-01-03 10:57:09,480  INFO: CTP	结算信息确认完成
+2019-01-03 10:57:10,388  INFO: CTP	交易合约信息获取完成
+2019-01-03 16:56:05,904  INFO: CTP	行情服务器连接断开
+2019-01-03 16:56:05,934  INFO: CTP	行情服务器连接断开
+2019-01-03 16:56:05,936  INFO: CTP	行情服务器连接成功
+2019-01-03 16:56:05,950  INFO: CTP	行情服务器连接成功
+2019-01-03 16:56:06,492  INFO: CTP	交易服务器连接断开
+2019-01-03 16:56:06,510  INFO: CTP	交易服务器连接断开
+2019-01-03 16:56:09,835  INFO: CTP	行情服务器连接断开
+2019-01-03 16:56:09,862  INFO: CTP	行情服务器连接断开
+2019-01-03 16:59:16,622  INFO: CTP	交易服务器连接成功
+2019-01-03 16:59:16,625  INFO: CTP	交易服务器连接成功
+2019-01-03 16:59:19,832  INFO: CTP	交易服务器连接断开
+2019-01-03 16:59:19,834  INFO: CTP	交易服务器连接断开
+2019-01-03 17:06:10,026  INFO: CTP	交易服务器连接成功
+2019-01-03 17:06:10,039  INFO: CTP	交易服务器连接成功
+2019-01-03 17:06:13,878  INFO: CTP	交易服务器连接断开
+2019-01-03 17:06:13,890  INFO: CTP	交易服务器连接断开
+2019-01-03 17:11:10,253  INFO: CTP	行情服务器连接成功
+2019-01-03 17:11:10,270  INFO: CTP	行情服务器连接成功
+2019-01-03 17:11:13,864  INFO: CTP	行情服务器连接断开
+2019-01-03 17:11:13,881  INFO: CTP	行情服务器连接断开
+2019-01-03 17:16:14,168  INFO: CTP	交易服务器连接成功
+2019-01-03 17:16:17,917  INFO: CTP	交易服务器连接断开
+2019-01-03 17:21:14,267  INFO: CTP	交易服务器连接成功
+2019-01-03 17:21:17,930  INFO: CTP	交易服务器连接断开
+2019-01-03 17:29:58,174  INFO: CTP	交易服务器连接成功
+2019-01-03 17:30:01,923  INFO: CTP	交易服务器连接断开
+2019-01-03 17:34:58,364  INFO: CTP	交易服务器连接成功
+2019-01-03 17:35:01,926  INFO: CTP	交易服务器连接断开
+2019-01-03 17:46:12,263  INFO: CTP	交易服务器连接成功
+2019-01-03 17:46:15,960  INFO: CTP	交易服务器连接断开
+2019-01-03 18:22:36,788  INFO: CTP	交易服务器连接成功
+2019-01-03 18:22:39,943  INFO: CTP	交易服务器连接断开
+2019-01-03 18:29:10,108  INFO: CTP	交易服务器连接成功
+2019-01-03 18:29:13,256  INFO: CTP	交易服务器连接成功
+2019-01-03 18:29:14,706  INFO: CTP	交易服务器连接断开
+2019-01-03 18:29:14,716  INFO: CTP	交易服务器连接成功
+2019-01-03 18:29:14,724  INFO: CTP	交易服务器连接断开
+2019-01-03 18:29:14,740  INFO: CTP	交易服务器连接成功
+2019-01-03 18:29:15,624  INFO: CTP	行情服务器连接成功
+2019-01-03 18:29:15,634  INFO: CTP	行情服务器登录完成
+2019-01-03 18:29:15,664  INFO: CTP	行情服务器连接成功
+2019-01-03 18:29:15,667  INFO: CTP	行情服务器登录完成
+2019-01-03 18:29:17,910  INFO: CTP	交易服务器连接断开
+2019-01-03 18:29:17,957  INFO: CTP	交易服务器连接断开
+2019-01-03 18:31:39,099  INFO: CTP	交易服务器连接成功
+2019-01-03 18:31:39,102  INFO: CTP	交易服务器连接成功
+2019-01-03 18:33:40,131  INFO: CTP	交易服务器连接断开
+2019-01-03 18:33:40,134  INFO: CTP	交易服务器连接断开
+2019-01-03 18:33:40,200  INFO: CTP	交易服务器连接成功
+2019-01-03 18:33:40,203  INFO: CTP	交易服务器连接成功
+2019-01-03 18:34:52,079  INFO: CTP	行情服务器连接断开
+2019-01-03 18:34:52,148  INFO: CTP	行情服务器连接成功
+2019-01-03 18:34:52,319  INFO: CTP	交易服务器连接断开
+2019-01-03 18:34:52,382  INFO: CTP	交易服务器连接断开
+2019-01-03 18:34:52,384  INFO: CTP	行情服务器连接断开
+2019-01-03 18:34:52,388  INFO: CTP	交易服务器连接成功
+2019-01-03 18:34:52,395  INFO: CTP	行情服务器连接成功
+2019-01-03 18:34:52,403  INFO: CTP	交易服务器连接成功
+2019-01-03 18:34:52,438  INFO: CTP	行情服务器登录完成
+2019-01-03 18:34:55,967  INFO: CTP	行情服务器登录完成
+2019-01-04 02:26:27,661  INFO: CTP	行情服务器连接断开
+2019-01-04 02:26:27,959  INFO: CTP	交易服务器连接断开
+2019-01-04 02:26:27,960  INFO: CTP	行情服务器连接断开
+2019-01-04 02:26:28,408  INFO: CTP	交易服务器连接断开
+2019-01-04 02:27:10,742  INFO: CTP	行情服务器连接成功
+2019-01-04 02:27:10,743  INFO: CTP	行情服务器登录完成
+2019-01-04 02:27:11,039  INFO: CTP	交易服务器连接成功
+2019-01-04 02:27:11,042  INFO: CTP	行情服务器连接成功
+2019-01-04 02:27:11,053  INFO: CTP	行情服务器登录完成
+2019-01-04 02:27:11,489  INFO: CTP	交易服务器连接成功

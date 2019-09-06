@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<title>华泰期货-多账户管理</title>
+
+<meta name="description" content="" />
+
+{#<link rel="stylesheet" type="text/css" href="/static/css/layout.css" />#}
+<script type="text/javascript" src="/static/js/jquery-1.12.4.min.js"></script>
+</head>
+
+
+
+<button class="btn8"  type="button" >点击登录CTP</button>
+<div>先点击登录获取状态: </div><br/>
+<button class="btn12"  type="button">账户信息查看</button>
+<br/><br/>
+<div id="createtable"></div>
+<button class="btn13"  type="button">持仓信息查看</button>
+<br/><br/>
+<div id="createtable2"></div>
+
+<script>
+$(document).ready(function() {
+    $(".btn8").click(function () {
+        alert("登陆需要时间，请等待几秒");
+        $.getJSON("/mydict", function (data) {
+            $.each(data, function (i, field) {
+                $("div").append(field + " ");
+            });
+        });
+    });
+})
+</script>
+<script>
+$(document).ready(function(){
+    $(".btn12").click(function(){
+        alert("账户信息实时刷新开启,请等候几秒");
+        setInterval(function () {
+            $.getJSON("/mytable",function(data){
+                console.log(data)
+                if(data.length > 0)
+                {
+                    $("#createtable").empty();
+                    var table=$("<table border='1' cellspacing='0'> </table>");
+                    table.appendTo($("#createtable"));
+                    var trh=$("<tr></tr>");
+                    trh.appendTo(table);
+                    for(var h=0; h<data[0].length; h++)
+                    {
+                        var th = $("<th>" +data[0][h]+"</th>");
+                        th.appendTo(trh);
+                    }
+                    for(var r=1; r<data.length; r++)
+                    {
+                        var tr=$("<tr></tr>");
+                        tr.appendTo(table);
+                        for(var j=0;j<data[r].length;j++)
+                        {
+                            var td=$("<td>"+data[r][j]+"</td>");
+                            td.appendTo(tr);
+                        }
+                    }
+                }
+
+            });
+           }, 2000);
+        });
+    })
+</script>
+
+<script>
+$(document).ready(function(){
+    $(".btn13").click(function(){
+        alert("持仓信息实时刷新开启,请等候几秒");
+        setInterval(function () {
+            $.getJSON("/mytable2",function(data){
+                console.log(data)
+                if(data.length > 0)
+                {
+                    $("#createtable2").empty();
+                    var table=$("<table border='1' cellspacing='0'> </table>");
+                    table.appendTo($("#createtable2"));
+                    var trh=$("<tr></tr>");
+                    trh.appendTo(table);
+                    for(var h=0; h<data[0].length; h++)
+                    {
+                        var th = $("<th>" +data[0][h]+"</th>");
+                        th.appendTo(trh);
+                    }
+                    for(var r=1; r<data.length; r++)
+                    {
+                        var tr=$("<tr></tr>");
+                        tr.appendTo(table);
+                        for(var j=0;j<data[r].length;j++)
+                        {
+                            var td=$("<td>"+data[r][j]+"</td>");
+                            td.appendTo(tr);
+                        }
+                    }
+                }
+
+            });
+           }, 2100);
+        });
+    })
+</script>
+
+
+
+{#    <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js"></script>#}
+{#	<script>#}
+{#        $(function() {#}
+{#            setInterval(function () {#}
+{#                $.ajax({#}
+{#                    url: "test_post/account_1",#}
+{#                    type: "POST",#}
+{#                    dataType: "json",#}
+{##}
+{#                    contentType: "application/json;charset=utf-8",#}
+{#                    success: function (data) {#}
+{#                        // alert(data.name + ":" + data.age);#}
+{##}
+{#                        $("#NAME").val(data.accountID);#}
+{##}
+{#                        $("#AGE").val(data.balance);#}
+{#                        $("#margin").val(data.margin);#}
+{#                        $("#available").val(data.available);#}
+{#                        $("#commission").val(data.commission);#}
+{#                        $("#closeProfit").val(data.closeProfit);#}
+{#                        $("#positionProfit").val(data.positionProfit);#}
+{#                        $("#preBalance").val(data.preBalance);#}
+{#                        console.log(data)#}
+{#                    }#}
+{##}
+{#                });#}
+{#            }, 2000);#}
+{#        })#}
+{#	</script>#}
+
+{#    	<script>
+        $(function() {
+            setInterval(function () {
+                $.ajax({
+                    url: "test_post_2/account_2",
+                    type: "POST",
+                    dataType: "json",
+
+                    contentType: "application/json;charset=utf-8",
+                    success: function (data) {
+                        // alert(data.name + ":" + data.age);
+
+                        $("#NAME2").val(data.accountID);
+
+                        $("#AGE2").val(data.balance);
+                        $("#margin2").val(data.margin);
+                        $("#available2").val(data.available);
+                        $("#commission2").val(data.commission);
+                        $("#closeProfit2").val(data.closeProfit);
+                        $("#positionProfit2").val(data.positionProfit);
+                        $("#preBalance2").val(data.preBalance);
+                        console.log(data)
+                    }
+
+                });
+            }, 2100);
+        })
+	</script>#}
+
+
+{#    <script>#}
+{#        $(function() {#}
+{#            // body...#}
+{#            $("#btn").click(function(){#}
+{#                $.ajax({#}
+{#                url: "test_post/nn",#}
+{#                type: "POST",#}
+{#                dataType: "json",#}
+{#                success: function (data) {#}
+{#                 alert(data.name + ":" + data.age);#}
+{#                $("#NAME2").val(data.name);#}
+{#                $("#AGE2").val(data.age);#}
+{#                console.log(data)}#}
+{#                })#}
+{#            })#}
+{#        })#}
+{#    </script>#}
+
+</body>
+</html>

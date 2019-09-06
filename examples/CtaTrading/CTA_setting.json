@@ -1,0 +1,20 @@
+[
+    {
+
+        "name": "DualThrust",
+
+        "className": "DualThrustStrategy",
+
+        "vtSymbol": "IF1901"
+    },
+
+    {
+
+        "name": "king keltner",
+
+        "className": "KkStrategy",
+
+        "vtSymbol": "rb1905"
+
+    }
+]

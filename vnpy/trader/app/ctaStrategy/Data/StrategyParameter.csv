@@ -1,0 +1,4 @@
+StrategyName,Slippage,Timer,Threshold,Exposure
+European,20,17:08:05,1,5
+Amerida,30,12:04:40,2,10
+option,40,9:05:00,1,-5

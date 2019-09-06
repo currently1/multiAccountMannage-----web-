@@ -1,0 +1,79 @@
+{
+  "CU":
+        {
+         "code": "cu1803",
+         "vol": 0.0,
+         "startDate": "20180104",
+         "endDate":"20180130",
+         "initDays":1,
+         "size": 5,
+         "rate": 0.0003,
+         "slip": 1,
+         "hands": 1,
+         "term": "Tick",
+         "changeVolumeStd": 400.0,
+         "initialHands": 0,
+         "SignalPeriod": 20,
+         "LongPeriod": 40,
+         "ShortPeriod": 30,
+         "MinimumPriceChange":5},
+   "I":
+        {
+         "initDays":1,
+         "size": 100,
+         "rate": 0.0003,
+         "marginrate":0.08,
+         "slip": 0.0,
+         "hands": 1,
+         "term": "Tick",
+         "MinimumPriceChange":0.5
+         },
+   "RB":
+        {
+         "initDays":1,
+         "size": 10,
+         "rate": 0.0003,
+         "slip": 0.0,
+         "hands": 1,
+         "term": "Tick",
+         "MinimumPriceChange":1
+         },
+
+   "RU":
+        {
+         "initDays":1,
+         "size": 10,
+         "rate": 0.0003,
+         "slip": 0.0,
+         "hands": 1,
+         "term": "Tick",
+         "MinimumPriceChange":5},
+      "HC":
+        {
+         "initDays":1,
+         "size": 10,
+         "rate": 0.0003,
+         "slip": 0.0,
+         "hands": 1,
+         "term": "Tick",
+         "MinimumPriceChange":1},
+       "C":
+        {
+         "initDays":1,
+         "size": 10,
+         "rate": 0.0003,
+         "slip": 0.0,
+         "hands": 1,
+         "term": "Tick",
+         "MinimumPriceChange":1},
+      "AU":
+        {
+         "initDays":1,
+         "size": 1000,
+         "rate": 0.0003,
+         "slip": 0.0,
+         "hands": 1,
+         "term": "Tick",
+         "MinimumPriceChange":0.05}
+
+}

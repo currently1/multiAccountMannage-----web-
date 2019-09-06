@@ -1,0 +1,6 @@
+1 “~\vnpy-master\examples\CtaTrading\setting”下填写 gateway_setting
+2   “~\vnpy-master\examples\CtaTrading\ “ 下 启动 traderServer.py
+3  “~\vnpy-master\examples\CtaTrading\ “下  启动 socketIO.py 
+4    浏览器打开，地址栏输入 ”http://localhost:5000/ “
+5    先点击”点击登录CTP “，弹窗点击确定，待显示“login successful”，登录成功
+6    点击 ”账户信息查看 “  ， "持仓信息查看”，弹窗点击确定，出现表格，获取成功。

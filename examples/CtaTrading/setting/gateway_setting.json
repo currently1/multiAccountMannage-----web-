@@ -1,0 +1,20 @@
+{
+    "114674":
+    {
+        "brokerID": "9999",
+        "accountID": "114674",
+        "password": "01771",
+        "mdAddress": "tcp://180.168.146.187:10010",
+        "tdAddress": "tcp://180.168.146.187:10000",
+        "gateway_type": "ctp"
+    },
+    "050649":
+    {
+        "brokerID": "9999",
+        "accountID": "050649",
+        "password": "htfc2018",
+        "mdAddress": "tcp://180.168.146.187:10010",
+        "tdAddress": "tcp://180.168.146.187:10000",
+        "gateway_type": "ctp"
+    }
+}
